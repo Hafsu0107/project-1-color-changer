@@ -47,10 +47,9 @@ a {
   height: 290px;
 }
 
-.one {
+button {
   width: 130px;
   height: 290px;
-  background-color: #355c7d;
   border: none;
   border-radius: 15px;
   cursor: pointer;
@@ -59,30 +58,15 @@ span {
   font-size: 25px;
   line-height: 50px;
 }
-
-.two {
-  width: 130px;
-  height: 290px;
+#B725A7A {
   background-color: #725a7a;
-  border: none;
-  border-radius: 15px;
-  cursor: pointer;
 }
-
-.three {
-  width: 130px;
-  height: 290px;
+#A355C7D {
+  background-color: #355c7d;
+}
+#FF7582 {
   background-color: #ff7582;
-  border: none;
-  border-radius: 15px;
-  cursor: pointer;
 }
-
-.four {
-  width: 130px;
-  height: 290px;
+#C56C86 {
   background-color: #c56c86;
-  border: none;
-  border-radius: 15px;
-  cursor: pointer;
 }
