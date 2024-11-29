@@ -24,7 +24,7 @@ a {
   color: #fff;
   text-decoration: none;
 }
-.colors {
+#colors {
   display: flex;
   justify-content: center;
   gap: 5em;
