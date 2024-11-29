@@ -5,10 +5,10 @@ colors.forEach(function (color) {
   color.addEventListener("click", function (e) {
     console.log(e);
     console.log(e.target);
-    if (e.target.id === "355C7D") {
+    if (e.target.id === "A355C7D") {
       body.style.backgroundColor = e.target.id;
     }
-    if (e.target.id === "725A7A") {
+    if (e.target.id === "B725A7A") {
       body.style.backgroundColor = e.target.id;
     }
     if (e.target.id === "C56C86") {
